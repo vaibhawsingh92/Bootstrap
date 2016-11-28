@@ -1,0 +1,24 @@
+
+
+.panel{
+	background: #d1d1e0;
+	height: 60px;
+
+}
+
+.panel img{
+	position: relative;
+	margin-top: -25px;
+}
+.ads a{
+	position: absolute;
+    top: 25%;
+    left: 20%;
+    color: #4775d1;
+}
+.ads a:hover{
+	font-size: 20px;
+	font-family: sans-serif;
+	color: #00bfff;
+}
+
